@@ -18,8 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"%@===%@", NSStringFromClass([self class]),NSStringFromSelector(_cmd));
-    NSLog(@"Another Log");
-    NSLog(@"NewBranch");
+    NSLog(@"Creat a NewBranch");
 }
 
 

@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"%@===%@", NSStringFromClass([self class]),NSStringFromSelector(_cmd));
     NSLog(@"Creat a NewBranch");
+    i++;
 }
 
 
